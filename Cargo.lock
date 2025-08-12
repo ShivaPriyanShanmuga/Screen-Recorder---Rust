@@ -9,6 +9,7 @@ dependencies = [
  "chrono",
  "cpal",
  "eframe",
+ "egui",
  "egui_extras",
  "env_logger",
  "ffmpeg-next",
